@@ -1,0 +1,16 @@
+.active-link {
+    border-bottom: 2px solid red;
+}
+
+.nav-border {
+    border-right: 2px dashed white;
+    padding-right: 20px;
+}
+
+.closed {
+    color: #ab5050;
+}
+
+.opened {
+    color: #79ad43;
+}
