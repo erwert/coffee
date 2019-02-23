@@ -12,11 +12,28 @@
 			}
 		},
 		"address": "Санкт-Петербург, Басков переулок, 20",
-		"latitude": 59.9399146,
-		"longitude": 30.3599082
+		"latitude": 59.939599,
+		"longitude": 30.359819
 	},
 	{
 		"id": 2,
+		"title": "Coffee Owl в баре Пиф Паф",
+		"timetable": {
+			"weekdays": {
+				"open": 10.00,
+				"close": 2.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 4.00
+			}
+		},
+		"address": "Санкт-Петербург, наб. канала Грибоедова, 31",
+		"latitude": 59.932012,
+		"longitude": 30.323561
+	},
+	{
+		"id": 3,
 		"title": "ЭНДИ КОФЕ",
 		"timetable": {
 			"weekdays": {
@@ -31,5 +48,124 @@
 		"address": "Санкт-Петербург, Большой проспект Петроградской стороны, 106",
 		"latitude": 59.9676133,
 		"longitude": 30.3135369
+	},
+	{
+		"id": 4,
+		"title": "Coffee 3",
+		"timetable": {
+			"weekdays": {
+				"open": 10.00,
+				"close": 23.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 23.00
+			}
+		},
+		"address": "Санкт-Петербург, Аптекарский пр., 4",
+		"latitude": 59.969778,
+		"longitude": 30.3166144
+	},
+	{
+		"id": 5,
+		"title": "ТЧК",
+		"timetable": {
+			"weekdays": {
+				"open": 8.30,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 21.00
+			}
+		},
+		"address": "Санкт-Петербург, ул. Мира, 11",
+		"latitude": 59.959121,
+		"longitude": 30.316322
+	},
+	{
+		"id": 6,
+		"title": "Займёмся кофе",
+		"timetable": {
+			"weekdays": {
+				"open": 8.00,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 21.00
+			}
+		},
+		"address": "Санкт-Петербург, Большая Пушкарская ул., 28/2",
+		"latitude": 59.958968,
+		"longitude": 30.303770
+	},
+	{
+		"id": 7,
+		"title": "Больше кофе!",
+		"timetable": {
+			"weekdays": {
+				"open": 8.30,
+				"close": 22.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 22.00
+			}
+		},
+		"address": "Санкт-Петербург, парк Александровский, 3Г",
+		"latitude": 59.9545567,
+		"longitude": 30.3204791
+	},
+	{
+		"id": 8,
+		"title": "Double B",
+		"timetable": {
+			"weekdays": {
+				"open": 8.00,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 22.00
+			}
+		},
+		"address": "Санкт-Петербург, Кронверкский пр., 65",
+		"latitude": 59.953695,
+		"longitude": 30.306186
+	},
+	{
+		"id": 9,
+		"title": "Обычные люди",
+		"timetable": {
+			"weekdays": {
+				"open": 8.30,
+				"close": 23.00
+			},
+			"weekends": {
+				"open": 11.00,
+				"close": 23.00
+			}
+		},
+		"address": "Санкт-Петербург, Рыбацкая ул., 4",
+		"latitude": 59.958207,
+		"longitude": 30.297632
+	},
+	{
+		"id": 10,
+		"title": "Боб и Лист",
+		"timetable": {
+			"weekdays": {
+				"open": 9.00,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 9.00,
+				"close": 21.00
+			}
+		},
+		"address": "Санкт-Петербург, Большой проспект ПС, 10Б",
+		"latitude": 59.954324,
+		"longitude": 30.292454
 	}
 ]
