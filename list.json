@@ -235,5 +235,244 @@
 		"address": "Санкт-Петербург, ул. Миллионная, 18",
 		"latitude": 59.942762,
 		"longitude": 30.322492
-	}
+	},
+    {
+        "address": "Санкт-Петербург, 2-ая Советская ул. 27", 
+        "id": 15, 
+        "latitude": 59.9301, 
+        "longitude": 30.3721, 
+        "timetable": {
+            "weekdays": {
+                "close": 20.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 22.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Mad Espresso Team"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Гражданская, 13-15", 
+        "id": 16, 
+        "latitude": 59.928115, 
+        "longitude": 30.312561, 
+        "timetable": {
+            "weekdays": {
+                "close": 22.0, 
+                "open": 9.3
+            }, 
+            "weekends": {
+                "close": 22.0, 
+                "open": 9.3
+            }
+        }, 
+        "title": "КУЛЬТУРА"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Гражданская, 13/15", 
+        "id": 17, 
+        "latitude": 59.928327, 
+        "longitude": 30.311963, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 21.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Seize the Impress"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Рубинштейна, 11", 
+        "id": 18, 
+        "latitude": 59.930017, 
+        "longitude": 30.344107, 
+        "timetable": {
+            "weekdays": {
+                "close": 23.0, 
+                "open": 8.0
+            }, 
+            "weekends": {
+                "close": 23.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Double B"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Казанская, 7", 
+        "id": 19, 
+        "latitude": 59.93237, 
+        "longitude": 30.32122, 
+        "timetable": {
+            "weekdays": {
+                "close": 22.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 19.0, 
+                "open": 12.0
+            }
+        }, 
+        "title": "Espresso Bike"
+    }, 
+    {
+        "address": "Санкт-Петербург, наб. Фонтанки, 109", 
+        "id": 20, 
+        "latitude": 59.92278, 
+        "longitude": 30.31846, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 9.0
+            }, 
+            "weekends": {
+                "close": 21.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Характер Кофе"
+    }, 
+    {
+        "address": "Санкт-Петербург, наб. Фонтанки, 17", 
+        "id": 21, 
+        "latitude": 59.93584, 
+        "longitude": 30.34304, 
+        "timetable": {
+            "weekdays": {
+                "close": 22.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 23.0, 
+                "open": 11.0
+            }
+        }, 
+        "title": "Кофе на кухне"
+    }, 
+    {
+        "address": "Санкт-Петербург, Литейный пр., 57", 
+        "id": 22, 
+        "latitude": 59.93474, 
+        "longitude": 30.34765, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 21.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Подписные издания"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Марата, 2", 
+        "id": 23, 
+        "latitude": 59.93122, 
+        "longitude": 30.35549, 
+        "timetable": {
+            "weekdays": {
+                "close": 22.0, 
+                "open": 8.0
+            }, 
+            "weekends": {
+                "close": 22.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Pitcher Espresso Bar"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Бассейная, 12", 
+        "id": 24, 
+        "latitude": 59.86632, 
+        "longitude": 30.31473, 
+        "timetable": {
+            "weekdays": {
+                "close": 22.0, 
+                "open": 8.0
+            }, 
+            "weekends": {
+                "close": 22.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Pitcher Espresso Bar"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Большая Морская, 16", 
+        "id": 25, 
+        "latitude": 59.93518, 
+        "longitude": 30.31684, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 10.0
+            }, 
+            "weekends": {
+                "close": 23.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Coffee Bar Bonch"
+    }, 
+    {
+        "address": "Санкт-Петербург, наб. канала Грибоедова, 43", 
+        "id": 26, 
+        "latitude": 59.93113, 
+        "longitude": 30.32047, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 12.0
+            }, 
+            "weekends": {
+                "close": 21.0, 
+                "open": 12.0
+            }
+        }, 
+        "title": "Oh my tea"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Гороховая, 48", 
+        "id": 27, 
+        "latitude": 59.926128, 
+        "longitude": 30.325723, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 9.0
+            }, 
+            "weekends": {
+                "close": 21.0, 
+                "open": 11.0
+            }
+        }, 
+        "title": "Grán"
+    }, 
+    {
+        "address": "Санкт-Петербург, ул. Маяковского, 16", 
+        "id": 28, 
+        "latitude": 59.936218, 
+        "longitude": 30.3545759, 
+        "timetable": {
+            "weekdays": {
+                "close": 21.0, 
+                "open": 8.0
+            }, 
+            "weekends": {
+                "close": 22.0, 
+                "open": 10.0
+            }
+        }, 
+        "title": "Латтерия"
+    }
 ]
+
