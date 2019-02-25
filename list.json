@@ -167,5 +167,73 @@
 		"address": "Санкт-Петербург, Большой проспект ПС, 10Б",
 		"latitude": 59.954324,
 		"longitude": 30.292454
+	},
+	{
+		"id": 11,
+		"title": "Фильтр",
+		"timetable": {
+			"weekdays": {
+				"open": 8.00,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 10.00,
+				"close": 21.00
+			}
+		},
+		"address": "Санкт-Петербург, Аптекарский проспект, 18",
+		"latitude": 59.975379,
+		"longitude": 30.317990
+	},
+	{
+		"id": 12,
+		"title": "Black Coffee Co.",
+		"timetable": {
+			"weekdays": {
+				"open": 8.00,
+				"close": 21.00
+			},
+			"weekends": {
+				"open": 9.30,
+				"close": 21.00
+			}
+		},
+		"address": "Санкт-Петербург, Каменноостровский проспект, 13/2",
+		"latitude": 59.959660,
+		"longitude": 30.317782
+	},
+	{
+		"id": 13,
+		"title": "Спасибо Кофе",
+		"timetable": {
+			"weekdays": {
+				"open": 8.30,
+				"close": 20.00
+			},
+			"weekends": {
+				"open": 10.0,
+				"close": 20.00
+			}
+		},
+		"address": "Санкт-Петербург, ул. Чайковского, 4",
+		"latitude": 59.94680699,
+		"longitude": 30.34377199
+	},
+	{
+		"id": 14,
+		"title": "Double B",
+		"timetable": {
+			"weekdays": {
+				"open": 9.00,
+				"close": 22.00
+			},
+			"weekends": {
+				"open": 11.0,
+				"close": 22.00
+			}
+		},
+		"address": "Санкт-Петербург, ул. Миллионная, 18",
+		"latitude": 59.942762,
+		"longitude": 30.322492
 	}
 ]
